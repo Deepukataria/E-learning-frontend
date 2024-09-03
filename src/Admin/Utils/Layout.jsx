@@ -1,5 +1,5 @@
 import Sidebar from "./Sidebar.jsx";
-import "./common.css";
+import "./Common.css";
 
 const Layout = ({ children }) => {
   return (
